@@ -1,22 +1,32 @@
 
-<div id="readme-main">
+<!-- <div id="readme-main"> -->
 
 ---
 
-<div class="title">
+<!-- <div class="title"> -->
     
-```
+<!-- ```
 a pigeon
-```
-</div>
+``` -->
+<!-- </div> -->
 
-<div class="center">
-    <img src="./assets/images/pigeon.webp" style="width:50%;">
-</div>
+<!-- <div class="center"> -->
+<!-- <img src="./assets/images/pigeon.webp" style="width:50%;"> -->
+<!-- </div> -->
 
----
+<!-- --- -->
 
-<div class="title">
+<!-- ![img](./assets/projects.svg) -->
+
+<!-- <div> -->
+<!-- <img src="./assets/projects.svg" style="width: 100%; height: 100%;" alt="Projects showcase"> -->
+
+<!-- --- -->
+
+<!-- <img src="./assets/hello.svg" style="width: 100%; height: 100%;" alt="Projects showcase"> -->
+<!-- </div> -->
+
+<!-- <div class="title">
     Personal projects
 </div>
 
@@ -25,11 +35,25 @@ a pigeon
     <div class="image" id="a"></div>
     <div class="image" id="b"></div>
     <div class="image" id="c"></div>
-</div>
+</div> -->
 
-### 3D Art
+### TEST
+<!-- ### 3D Art -->
+
+
+
 <div class="layout-2">
-    <div class="image" id="d"></div>
+    <div style="
+        grid-area: a;
+        width: 100%;
+        height: 20rem;
+        box-shadow: 0.5rem 0.5rem 0rem black;
+        border-radius: 1rem;
+        background-color: white;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-image: url(./assets/images/cornell.jpg);">.</div>
     <div class="image" id="e"></div>
     <div class="image" id="f"></div>
     <div class="image" id="g"></div>
@@ -37,7 +61,7 @@ a pigeon
 
 ---
 
-<style>
+<!-- <style>
     #readme-main {
         --roundness: 1rem;
         --spacing: 2rem;
@@ -108,6 +132,6 @@ a pigeon
         grid-area: c;
         background-image: url(./assets/images/revolver.jpg);
     }
-</style>
+</style> -->
 
-</div>
+<!-- </div> -->
